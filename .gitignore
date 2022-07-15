@@ -1,0 +1,8 @@
+# ignore ALL .log files
+*.log
+
+# dotenv environment variables file
+.env
+
+# personal file
+secrets.json
